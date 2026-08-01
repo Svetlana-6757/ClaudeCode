@@ -1,2 +1,2 @@
 # ClaudeCode
-тестовые задания курса fiers commit
+тестовые задания курса first commit
